@@ -1,4 +1,4 @@
-In this project, I utilized the following techniques for SQL:
+The files herein showcase some of the skills I've obtained in SQL and DBM. This was a small class project that focused on gaining proficiency in techniques and the coding language of SQL. In this project, I utilized the following techniques and codes showcased in my files:
 
 Importing and mapping data bases
 
